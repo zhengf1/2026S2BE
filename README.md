@@ -1,9 +1,11 @@
 # 2026 S2 Basic Econometrics
 
-**Please use these materials with caution; errors may not be corrected. Please refer to the final solution for details.**
+**Please use these materials with caution, as errors may not have been corrected. Always refer to the official solutions for definitive answers and details.**
 
-Tutorial materials prepared by Zheng Fan for Basic Econometrics at the University of Melbourne for the use of running tutorials.
+**Important note:** I would not necessarily recommend using these materials as additional study resources for this subject. They introduce some supplementary material and details that may require additional consideration, while providing limited additional information beyond what is already covered in the official tutorials and lectures. Please treat them primarily as resources designed to facilitate tutorial delivery, rather than as supplementary study materials.
 
-Property of the University of Melbourne. Subject to copyright! You should not disseminate, distribute, or copy.
+These tutorial materials were prepared by Zheng Fan for the delivery of Basic Econometrics tutorials at the University of Melbourne.
 
-All the materials presented are based on the materials provided on Canvas by the lecturers/coordinators.
+All materials are based on the teaching resources provided by the lecturers and subject coordinators via Canvas.
+
+**Copyright notice:** These materials are the property of the University of Melbourne and are subject to copyright. They should not be disseminated, distributed, reproduced, or copied without appropriate permission.
